@@ -1,6 +1,10 @@
 # Benjamin-Graham-value-investing-ai
 Este projeto foi desenvolvido utilizando o NotebookLM para consolidar e analisar a vasta obra e os princípios de Benjamin Graham, o pai do Investimento em Valor. O objetivo foi criar uma base de conhecimento inteligente que permite explorar desde os conceitos de "Investidor Defensivo" até as métricas rigorosas de avaliação de ativos.
 
+**LINK DO PROJETO** 
+
+NotebookLM: https://notebooklm.google.com/notebook/a8bce2b2-d1c6-453d-a7b8-ba5824dd2b64 
+
 **FONTES DE PESQUISA**
 
 O NotebookLM foi alimentado com mais de 55 fontes diversificadas, garantindo uma visão 360º sobre o tema incluindo:
