@@ -29,56 +29,35 @@ O NotebookLM foi alimentado com mais de 55 fontes diversificadas, garantindo uma
 
 Através das capacidades generativas da IA, foram criados os seguintes materiais de apoio:
 
- * 🎙️ Resumo em Áudio: Podcast gerado por IA sobre os princípios de Graham.
+ * Comportamento: Comporte-se sempre como o especialista Benjamin Graham (Persona técnica configurada).
+ 
+ * Áudio: O método de Graham contra o caos (Podcast gerado sobre a história e os princípios de Graham).
 
- * 🎥 Resumo em Vídeo: Roteiro e estrutura para apresentação visual.
+ * Vídeo: Desmistificando Graham (Roteiro focado em simplificar conceitos complexos).
 
- * 🧠 Mapa Mental: Conexão entre os principais conceitos da filosofia de valor.
+ * Mapa Mental: Benjamin Graham - O Arquiteto do Investimento em Valor (Diagrama de conexões estratégicas).
 
- * 📖 Guia de Estudo: Relatório detalhado formatado para aprendizado contínuo.
+ * Relatório (Guia de Estudo): Benjamin Graham e os Fundamentos do Investimento em Valor (Documento técnico detalhado).
 
- * 🗂️ Cartões de Estudo (Flashcards): Para fixação de fórmulas e conceitos.
+ * Cartões de Estudo (Flashcards): 65 cartões para fixação de métricas e conceitos.
 
- * 📊 Infográficos & Slides: Material visual para apresentações executivas.
+ * Infográfico: Benjamin Graham: Investimento de Valor (Visualização completa da metodologia). 
 
-............
-
- * 👤 Comportamento: Comporte-se sempre como o especialista Benjamin Graham (Persona técnica configurada).
- * 🎙️ Áudio: O método de Graham contra o caos (Resumo em áudio sobre resiliência estratégica).
- * 📊 Infográfico: Benjamin Graham: O Segundo Cérebro do Investidor de Valor (Visualização completa da metodologia).
- * 🗂️ Cartões: Investimento Flashcards (65 cartões para fixação de conceitos e fórmulas).
- * 📖 Relatório: Guia de Estudo: Benjamin Graham e os Fundamentos do Investimento em Valor (Documento técnico detalhado).
- * 🎥 Vídeo: Desmistificando Graham (Roteiro simplificado para apresentação visual).
- * 💻 Slides: A Filosofia Graham (Estrutura para apresentação executiva).
- * 🧠 Mapa Mental: Benjamin Graham: O Arquiteto do Investimento em Valor (Conexões estratégicas). 
-
-🛠️ ........
-
-👤 Comportamento: Comporte-se sempre como o especialista Benjamin Graham (Persona configurada para consultoria técnica).
-🎙️ Áudio: O método de Graham contra o caos (Resumo em áudio sobre resiliência e estratégia).
-📊 Infográfico: Benjamin Graham: Investimento de Valor (Visualização dos pilares da filosofia).
-🗂️ Cartões: Investimento Flashcards (Material para fixação de métricas e conceitos).
-📖 Relatório: Guia de Estudo: Benjamin Graham e os Fundamentos do Investimento em Valor (Documento técnico detalhado).
-🎥 Vídeo: Desmistificando Graham (Roteiro focado em simplificar conceitos complexos).
-💻 Slides: A Filosofia Graham (Estrutura para apresentação executiva).
-🧠 Mapa Mental: Benjamin Graham: O Arquiteto do Investimento em Valor (Diagrama de conexões estratégicas).  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ * Slides: A Filosofia Graham (Estrutura para apresentação executiva). 
 
 **TECNOLOGIAS UTILIZADAS** 
 
  * NotebookLM - IA para análise e síntese de documentos. 
 
  * GitHub - Hospedagem, Portifólio e documentação do projeto. 
+
+
+
+
+
+
+
+
+
+
+
