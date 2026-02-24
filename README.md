@@ -15,6 +15,8 @@ O NotebookLM foi alimentado com mais de 55 fontes diversificadas, garantindo uma
 
 **PRINCIPAIS INSIGHTS**
 
+ * Guia: Benjamin Graham e a Filosofia do Investimento Inteligente. 
+ 
  * Margem de Segurança: O pilar central para proteção de capital contra volatilidade e erros de avaliação.
 
  * Perfis de Investidor: Diferenciação clara entre o investidor defensivo (segurança e simplicidade) e o empreendedor (dedicação e busca por performance). 
@@ -41,7 +43,7 @@ Através das capacidades generativas da IA, foram criados os seguintes materiais
 
  * Cartões de Estudo (Flashcards): 65 cartões para fixação de métricas e conceitos.
 
- * Infográfico: Benjamin Graham: Investimento de Valor (Visualização completa da metodologia). 
+ * Infográfico: Benjamin Graham: Os Pilares do Value Investing (Visualização completa da metodologia). 
 
  * Slides: A Filosofia Graham (Estrutura para apresentação executiva). 
 
@@ -51,7 +53,22 @@ Através das capacidades generativas da IA, foram criados os seguintes materiais
 
  * GitHub - Hospedagem, Portifólio e documentação do projeto. 
 
+**PRINTS** 
 
+Flashcards:
+![IMG_20260223_173458797](https://github.com/user-attachments/assets/e2c8abd6-8d6a-45cb-93e9-f1d8ca4c0119)
+
+![IMG_20260223_173508533](https://github.com/user-attachments/assets/0b713435-b133-42e3-b029-60c28e68c7ab)
+
+![IMG_20260223_173549714](https://github.com/user-attachments/assets/e5363a4b-ed4c-41a0-a774-9aef0b790b0c)
+
+![IMG_20260223_173557653](https://github.com/user-attachments/assets/30f6bd7d-ffe3-481c-b3fa-01f593bc4e85)
+
+Infográfico: 
+<img width="1080" height="607" alt="Screenshot_20260224-054025" src="https://github.com/user-attachments/assets/878a1913-5a0c-406d-92b3-32f4d0b883ff" />
+
+Slides: 
+![Screenshot_20260224-054541](https://github.com/user-attachments/assets/38f068a6-7747-4d9f-a9b2-c4a78570148f)
 
 
 
